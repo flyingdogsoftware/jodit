@@ -99,7 +99,7 @@ $('textarea').each(function () {
 ## For contributors:
 
 ```bash
-git clone https://github.com/xdan/jodit.git
+git clone https://github.com/flyigdogsoftware/jodit.git
 cd jodit
 npm install
 ```
