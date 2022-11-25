@@ -1,4 +1,3 @@
-![Jodit WYSIWYG editor]
 
 # Jodit Editor 3
 
