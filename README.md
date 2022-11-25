@@ -1,4 +1,4 @@
-![Jodit WYSIWYG editor](https://raw.githubusercontent.com/xdan/jodit/master/examples/assets/logo.png)
+![Jodit WYSIWYG editor]
 
 # Jodit Editor 3
 
