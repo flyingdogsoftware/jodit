@@ -8,8 +8,6 @@ An excellent WYSIWYG editor written in pure TypeScript without the use of additi
 [![npm version](https://badge.fury.io/js/jodit.svg)](https://badge.fury.io/js/jodit)
 [![npm](https://img.shields.io/npm/dm/jodit.svg)](https://www.npmjs.com/package/jodit)
 
-## Get Started
-
 ## How use
 
 Download the latest [release](https://github.com/xdan/jodit/releases/latest) or
