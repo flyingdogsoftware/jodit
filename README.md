@@ -305,7 +305,7 @@ var editor = Jodit.make('.someselector', {
 ## Contributing
 
 This project is maintained by a community of developers. Contributions are welcome and appreciated. You can find Jodit on GitHub; feel free to start an issue or create a pull requests:
-https://github.com/xdan/jodit
+https://github.com/flyingdogsoftware/jodit
 
 ## License
 
