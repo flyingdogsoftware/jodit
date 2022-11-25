@@ -158,8 +158,6 @@ For checking tests in browser, open URL:
 http://localhost:2000/test/test.html
 ```
 
-For testing FileBrowser and Uploader modules, need install [PHP Connector](https://github.com/xdan/jodit-connectors)
-
 ```bash
 composer create-project --no-dev jodit/connector
 ```
