@@ -8,14 +8,9 @@ An excellent WYSIWYG editor written in pure TypeScript without the use of additi
 [![npm version](https://badge.fury.io/js/jodit.svg)](https://badge.fury.io/js/jodit)
 [![npm](https://img.shields.io/npm/dm/jodit.svg)](https://www.npmjs.com/package/jodit)
 
--   [Demo and Official site](https://xdsoft.net/jodit/)
--   [PRO Version](https://xdsoft.net/jodit/pro/)
--   [Builder](https://xdsoft.net/jodit/builder/)
--   [Playground - play with options](https://xdsoft.net/jodit/play.html)
--   [Documentation](https://xdsoft.net/jodit/docs/)
--   [Download & Changes](https://github.com/xdan/jodit/releases)
--   [Changelog](https://github.com/xdan/jodit/blob/master/CHANGELOG.md)
--   [Examples](https://xdan.github.io/jodit/examples/)
+-   [Download & Changes](https://github.com/flyingdogsoftware/jodit/releases)
+-   [Changelog](https://github.com/xdan/flyingdogsoftware/blob/master/CHANGELOG.md)
+-   [Examples](https://xdan.github.io/flyingdogsoftware/examples/)
 
 ## Get Started
 
